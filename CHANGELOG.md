@@ -15,6 +15,7 @@ Bugfixes:
 * Fixed substring formatting printing the placeholder as is, instead of nothing, when the start index is outside of the string and an end index is given. (General)
 
 Logos:
+* Added SpaceOS 9 (#2692)
 * Added Tiny Core Linux (#2655)
 
 # 2.70.0
